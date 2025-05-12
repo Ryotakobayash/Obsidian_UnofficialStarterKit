@@ -1,0 +1,23 @@
+{
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Pages",
+  "tabSize": 3,
+  "vimMode": false,
+  "attachmentFolderPath": "Images",
+  "smartIndentList": true,
+  "showIndentGuide": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": false,
+  "foldIndent": true,
+  "showLineNumber": false,
+  "readableLineLength": true
+}

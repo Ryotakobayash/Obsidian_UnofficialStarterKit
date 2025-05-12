@@ -1,0 +1,20 @@
+{
+  "minimal-style@@workspace-background-translucent@@dark": "#3535350D",
+  "minimal-style@@icon-muted": 0.5,
+  "minimal-style@@tag-radius": "14px",
+  "minimal-style@@bold-modifier": 300,
+  "minimal-style@@workspace-background-translucent@@light": "#FFFFFF36",
+  "minimal-style@@bg2@@dark": "#444444",
+  "minimal-style@@bg3@@dark": "#1A1A1A",
+  "minimal-style@@base@@dark": "#808080",
+  "minimal-style@@bg1@@dark": "#373737",
+  "minimal-style@@sidebar-tabs-style": "sidebar-tabs-default",
+  "minimal-style@@graph-line@@dark": "#555555",
+  "blue-topaz-theme@@background-settings-workplace-background-image": true,
+  "blue-topaz-theme@@background-settings-workplace-theme-light": "background-settings-workplace-waves-light",
+  "blue-topaz-theme@@background-settings-workplace-theme-dark": "background-settings-workplace-waves2",
+  "minimal-style@@h1-size": "2em",
+  "minimal-style@@h4-size": "1em",
+  "minimal-style@@h2-size": "1.75em",
+  "minimal-style@@h3-size": "1.5em"
+}

@@ -1,0 +1,272 @@
+{
+  "main": {
+    "id": "e7e147789049681e",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcb6e759c9c28546",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb2b1e82fe3efda6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Weekly/2025-W20.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-W20"
+            }
+          },
+          {
+            "id": "15045a13b9d0fa8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2025_05_12.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025_05_12"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "46081e085688b0e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "e229e1bd214c65f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "069e4899b84b1fd5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "b4dca2935aa4e0c5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily/2025_05_07.md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2025_05_07のアウトライン"
+            }
+          },
+          {
+            "id": "452db98e177c1ce4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#TEST",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "byCreatedTime"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "cd451eff9d6b0b9a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 339.5
+  },
+  "right": {
+    "id": "d43f6651236a463e",
+    "type": "split",
+    "children": [
+      {
+        "id": "92e830873ca1e426",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "938741aa19c6468a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "22bef16935ac75fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pages/常駐メモ.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 常駐メモ"
+            }
+          },
+          {
+            "id": "b7f2724cc3e3756f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily/2025_05_07.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2025_05_07からのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "f213c04805552913",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "204926339ca9025b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "d60e5b97763cfef7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 414.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "quickadd:QuickAdd": false
+    }
+  },
+  "active": "cb2b1e82fe3efda6",
+  "lastOpenFiles": [
+    "Daily/2025_05_12.md",
+    "Weekly/2025-W20.md",
+    "Pages/このへんにタイトル.md",
+    "Templates/Weekly.md",
+    "Templates/Evergreen.md",
+    "Templates/Daily.md",
+    "Pages/tile.md",
+    "Daily/2025_05_11.md",
+    "Daily/2025_05_09.md",
+    "Daily/2025_05_08.md",
+    "Daily/2025_05_07.md",
+    "Daily/2025_05_03.md",
+    "Daily/2025_05_02.md",
+    "Daily/2025_05_01.md",
+    "Daily/2025_04_30.md",
+    "Daily/2025_04_28.md",
+    "Daily/2025_04_25.md",
+    "Daily/2025_04_24.md",
+    "Daily/2025_04_23.md",
+    "Daily/2025_04_22.md",
+    "Daily/2025_04_21.md",
+    "Daily/2025_04_18.md",
+    "Daily/2025_04_17.md",
+    "Daily/2025_04_16.md",
+    "Daily/2025_04_15.md",
+    "Daily/2025_04_14.md",
+    "Daily",
+    "Assets_new/2025_05_02.png",
+    "Images/ネットワークの話_冗長接続.png",
+    "Images/ネットワークの話_中国インターネット接続.png",
+    "Images/ネットワークの話_DCI.png",
+    "Images/ネットワークの話_インターネット(ISP)階層_Tier表.png",
+    "Images/ネットワークの話_インターネット(ISP)階層.png",
+    "Images/ネットワークの話_BGPトラフィックコントロール.png",
+    "Images/ネットワークの話_InternetExchange(IX).png",
+    "Images/ネットワークの話_Neco.png",
+    "Images/ネットワークの話_Forest.png",
+    "assets/長田_干渉縞信号の形成特徴に注目した信号処理によるパルス列干渉計における変位測定の高精度化_1727400699155_0.pdf",
+    "assets/美濃島薫_精密長さ計測のための光コムによる干渉計測_1727401027929_0.edn",
+    "assets/第15章_計測の信頼性と測定の不確かさ_1727402660414_0.pdf",
+    "assets/画像分割テクニックの包括的レビュー_1727400948167_0.pdf",
+    "assets/検出限界と定量下限の考え方_1727402498352_0.pdf",
+    "assets/松本弘一_長さ標準-歴史,現状,今後_1727401659789_0.pdf",
+    "assets/干渉縞信号の形成特徴に注目した信号処理によるパルス列干渉計における変位測定の高精度化_1727400623434_0.pdf",
+    "assets/干渉縞信号の形成特徴に注目した信号処理によるパルス列干渉計における変位測定の高精度化_1727400623434_0.edn",
+    "assets/大津の二値化法（もと論文）_1727400483018_0.pdf",
+    "Dataview_Canvas.canvas"
+  ]
+}

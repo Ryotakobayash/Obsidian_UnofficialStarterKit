@@ -1,0 +1,14 @@
+{
+  "interfaceFontFamily": "",
+  "accentColor": "",
+  "translucency": true,
+  "theme": "system",
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "setting",
+    "MermaidImgWidthAdjuster"
+  ],
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "showRibbon": true
+}
